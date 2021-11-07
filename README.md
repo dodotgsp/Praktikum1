@@ -1,8 +1,8 @@
 # Praktikum1
-<h1> NAMA   :   DODOT GUNTUR SATRIA PUTRA
-     NIM    :   312110499 
-     KELAS  : TI.21.C1
-     TUGAS BAHASA PEMOGRAMAN <h1>
+<p>  NAMA   :   DODOT GUNTUR SATRIA PUTRA <p>
+<p>  NIM    :   312110499 <p>
+<p>  KELAS  : TI.21.C1 <p>
+<p>  TUGAS BAHASA PEMOGRAMAN <p>
 
 # Program penjumlahan dan pembagian
 <p> buat script seperti berikut <p>
